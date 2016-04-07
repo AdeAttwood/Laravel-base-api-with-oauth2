@@ -15,6 +15,13 @@ storage/
 .env.php
 .env
 
+# From Laravel .gitignore
+/public/storage
+Homestead.yaml
+Homestead.json
+
+
+
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
 
